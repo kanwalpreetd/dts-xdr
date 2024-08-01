@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "dts-dom": "git+https://github.com/Shaptic/dts-dom#552a6d0",
-    "jscodeshift": "^0.7.0"
+    "jscodeshift": "^0.16.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
